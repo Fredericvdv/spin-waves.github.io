@@ -1,6 +1,6 @@
 // script.js
 
-function greet() {
-    alert("Hello! Welcome to my GitHub Page!");
+function sw_type() {
+    alert("I am an exchange spin wave");
   }
   
